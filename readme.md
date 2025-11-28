@@ -7,6 +7,6 @@
 ~~тренируюсь~~
 
 [Мой ГитХаб](https://github.com/IskanderP94)  
-'''java
-System.out.println("Hello");
+'''java  
+System.out.println("Hello");  
 '''
